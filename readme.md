@@ -1,4 +1,4 @@
-# Lab Project On Training
+# ![image alt] (https://github.com/Hunt0624/git-devops-automation/blob/5d221e80c751c03afebed1d4acfbe5f51a99a268/Rocket.jpg) Lab Project On Training
 
 This Readme file is a based on a training lab course that I have learned from on Udemy Business.
 
@@ -8,6 +8,6 @@ This Readme file is a based on a training lab course that I have learned from on
 -GitHub
 -Markdown
 
-### ![Rocket] (5b4ad1af1a0523ecd9ab7688cd4e74c3.jpg)
+### [image alt] (https://github.com/Hunt0624/git-devops-automation/blob/5d221e80c751c03afebed1d4acfbe5f51a99a268/Folder.jpg) Project Structure
 
 
